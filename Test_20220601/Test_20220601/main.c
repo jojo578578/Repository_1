@@ -29,7 +29,7 @@ int main(){
     return 0;
 }
 */
-/*
+
 int main(){
     int ret = 0;
     int pwd = 0;
@@ -43,7 +43,7 @@ int main(){
     while ((pwd = getchar())!='\n') {
         ;
     }
-    
+    printf("11111111");
     printf("请确认(Y/N):");
     ret = getchar();
     if (ret =='Y') {
@@ -53,5 +53,6 @@ int main(){
     }
     return 0;
 }
-*/
+ 
+
 
