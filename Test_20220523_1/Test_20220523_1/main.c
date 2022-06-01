@@ -99,3 +99,22 @@ int main(){
     return 0;
 }
 */
+/*
+int main(){
+    int i = 1;
+    while (i <=10) {
+        
+        printf("%d\n",i);
+        i++;
+    }
+    
+    return 0;
+}
+*/
+
+int main(){
+    int ch = getchar();
+    putchar(ch);
+    printf("%c\n",ch);
+    return 0;
+}
